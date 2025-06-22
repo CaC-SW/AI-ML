@@ -1,0 +1,9 @@
+Write a C++/JAVA class to model security and atomicity in a bank database.
+Write pseudocode for deletion from a B+ Tree.
+How distributed clusters help in reducing this problem even further.
+Justify the projects and experiences mentioned in your CV thoroughly.
+What is thrashing and paging in Operating Systems explain with example
+"Explain race condition, mutual exclusion, and deadlock"
+Write code for Peterson’s Solution to the critical section problem
+Suggest design changes to prevent starvation of writers when there is an infinite stream of readers.
+Write code for the Readers-Writers problem.

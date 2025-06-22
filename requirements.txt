@@ -1,0 +1,6 @@
+streamlit
+pandas
+chromadb
+langchain
+sentence-transformers
+requests
