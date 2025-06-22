@@ -1,0 +1,4 @@
+Sort two sorted arrays and find the median of the merged array.
+"If the total length of the merged array is odd, return the middle element."
+"If the length is even, return the average of the two middle elements."
+The return type must be a double.

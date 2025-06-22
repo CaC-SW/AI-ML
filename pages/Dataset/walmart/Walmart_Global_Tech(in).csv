@@ -1,0 +1,27 @@
+Abstract class Vs Interface. Why do we need an Abstract class if we have an interface?
+Pure Virtual functions vs Virtual Function
+Which is better i=i+1 or i++ from compilers perspective
+Can Program execute without Main function
+What is the difference between Inheritance and Polymorphism? then follow up question can we achieve inheritance with polymorphism
+What is the interface in C++?
+"What is return via value, return via reference, return via address"
+Does the heap memory get de-allocated after Program Execution?
+"In detail Static Memory allocation and Dynamic memory Allocation(DMA). Does Static Allocation has anything to deal with static variables? Static variables vs global variables, then Why we need static variables if we have global variables."
+"Difference between list, map, and queue."
+check two strings equal or not by swapping letters among them.
+"Given an array, find the maximum sum of its subarray."
+"Given the tree, find whether it is symmetric or not."
+Explain Level order traversal of trees.
+Explain Zigzag traversal of trees.
+Pattern printing question(Pascal triangle).
+Finding loop in linked list.
+Check whether the given Binary tree is BST.
+What is multithreading?
+What is TCP/IP handshaking?
+What actually happens when you are notified by the browser that the site is not safe?
+What do you know about DBMS?
+"some queries about Types of Joins in MYSQL. inner join, outer join, full join, left join, right join."
+What are containers? Difference between the container and Virtual Machine.
+How is LSTM better and simple than RNN.
+Why do you you use Random forest Algorithm in your Projects?
+What is relative feature importance and partial dependent plots?
